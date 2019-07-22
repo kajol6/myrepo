@@ -1,9 +1,0 @@
-Welcome, this is my  first file.
-Task name 
-First task : chitchat with friends.
-My new branch begins here.
-My model task
-modeltask1
-modeltask2
-performing changes
-
